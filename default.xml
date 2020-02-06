@@ -6,6 +6,7 @@
            review="review.lineageos.org" />
   
   <remote  name="blazedroid"
+           fetch=".."
            review="github.com/"
            revision="refs/heads/BlazeDroid-Q" />
 
